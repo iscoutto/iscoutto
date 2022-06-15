@@ -1,8 +1,7 @@
-<img align="leaft" alt="Gif" height="400" width="1090" style="border-radius:50px;" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=material-palenight&height=180&section=header&text=Isabella Couto&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+ 
 <div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iscoutto&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=iscoutto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=iscoutto&theme=radical&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=iscoutto&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=iscoutto&theme=material-palenight&hide_border=true"/>
 <br/><br/>
 	 	  	  
 ### A little about me...  <img src="https://media.giphy.com/media/jylguZI85OIGvLnkSt/giphy.gif" width="60"> 
@@ -26,3 +25,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=120&section=footer&theme=material-palenight"/>
