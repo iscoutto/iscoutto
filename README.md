@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=material-palenight&height=180&section=header&text=Isabella Couto&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=180&section=header&theme=material-palenight&text=Isabella%20Couto&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iscoutto&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=iscoutto&theme=material-palenight&count_private=true&hide_border=true&include_all_commits=true"/>
 <br/><br/>
